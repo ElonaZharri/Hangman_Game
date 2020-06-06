@@ -22,8 +22,8 @@ def get_guess():
         else:
             return str(user_input)
 
-# This function takes three arguments (as given in the
-# instructions on CodeHS), and updates the individual
+# This function takes three arguments 
+# and updates the individual
 # index where the user guesses correctly.
 
 def update_dashes(secret_word, dashes, user_input):
